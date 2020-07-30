@@ -1,5 +1,5 @@
 # coursera-business-statistics-and-analysis
-## Solutions to all the courses in Business Statistics and Analysis Specialization on Coursera.
+## Solutions to all the courses in "Business Statistics and Analysis" Specialization on Coursera.
 
 ### Contents
 - Course 1 [Introduction to Data Analysis Using Excel](https://github.com/nitishmalpotra/coursera-business-statistics-and-analysis/tree/master/01%20-%20Introduction%20to%20Data%20Analysis%20Using%20Excel)
